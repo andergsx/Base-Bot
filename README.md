@@ -23,7 +23,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/ToxiPain/ToxiBot-Jadibot.git
+git clone https://github.com/andergsx/Base-Bot.git
 ```
 
 ```bash
