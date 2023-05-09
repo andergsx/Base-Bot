@@ -11,6 +11,8 @@ function pickRandom(list) {
 }
 
 global.bucin = [
+"Pasa una foto de tu poto con si algo encima xd",
+"Pasa pack perris xd"m,
 "Pasa el pack de una hormiga",
 "Dile a tus amigos que te vas a vivir a EU y mándame una captura de lo que te haya dicho",
 "Grita desde la ventana que quieres mamar y mándame el vídeo",
