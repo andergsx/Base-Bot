@@ -21,14 +21,17 @@ apt-get update -y && apt-get upgrade -y
 ```bash
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
+```bash
+yarn install
+```
 
 ```bash
 git clone https://github.com/andergsx/Base-Bot.git
 ```
-
 ```bash
-yarn install
+cd Base-Bot
 ```
+
 
 ```bash
 npm install
@@ -39,18 +42,6 @@ npm update
 ```
 
 ```bash
-npm install
-```
-
-```bash
 npm start
-```
-
-### `$/// EN CASO DE DETENERSE EN TERMUX USA: $///`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Base-Bot
-> npm start
 ```
 
