@@ -5,16 +5,16 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['50557418454', '👑 Mystic - Creador 👑', true],
-  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
+  ['51912332440', '👑 Bot Andxxx - Creador 👑', true],
+  ['51904678527', '👑 Yeral - Collaborator 1 👑', true],
 ] 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['51912332440']
+global.prems = ['51904678527']
 
 global.packname = ':3'
-global.author = '*♛ 𝓣oxi-𝓑ot ♛*'
-global.wm = '*♛ 𝓣oxi-𝓑ot ♛*'
-global.igfg = '*♛ 𝓣oxi-𝓑ot ♛*'
+global.author = 'Andxxx - Bot'
+global.wm = 'Andxxx - Bot'
+global.igfg = 'Andxxx - Bot'
 global.wait = '*┊↳♛┊ Cargando... Espere un momento. *'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
@@ -34,8 +34,6 @@ global.APIs = { // API Prefix
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.me',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',

@@ -46,7 +46,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🔞 _${usedPrefix}nsfwfemdom_
 ° ඬ⃟🔞 _${usedPrefix}nsfwglass_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT', 'GRUPO OFICIAL', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/GRKiN86j1khEYlFZeSCyP4Ninguno', 'GRUPO OFICIAL', null, null, [
 ['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
 ], m)
 }}

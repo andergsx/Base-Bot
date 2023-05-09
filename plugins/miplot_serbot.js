@@ -26,7 +26,7 @@ let crm3 = "SBpbmZvLWRvbmFyLmpz"
 let crm4 = "IF9hdXRvcmVzcG9uZGVyLmpzIGluZm8tYm90Lmpz"
 let drm1 = "CkphZGlib3QsIEhlY2hv"
 let drm2 = "IHBvciBAQWlkZW5fTm90TG9naWM"
-let rtx= `*♛𝓣oxi-𝓑ot♛*
+let rtx= `*Andxxx - Bot*
 *𝐒𝐄𝐑 𝐒𝐔𝐁𝐁𝐎𝐓*
 
 *Escanea este codigo QR para convertirte en un Bot (SubBot), puedes usar otro dispositivo para escanear*

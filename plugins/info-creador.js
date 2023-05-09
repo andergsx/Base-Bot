@@ -2,27 +2,25 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/50557418454*
-
-GITHUB: https://github.com/ToxiPain/ToxiBot-Jadibot
-`.trim()   
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/51912332440*
+`.trim()
 let buttonMessage= {
-'document': { url: `https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT` },
+'document': { url: `https://chat.whatsapp.com/GRKiN86j1khEYlFZeSCyP4` },
 'mimetype': `application/${document}`,
-'fileName': `「  Toxi Bot 」`,
+'fileName': `「  Andxxx - Bot 」`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+'mediaUrl': 'https://github.com/andergsx/Base-Bot',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT' }},
+'sourceUrl': 'https://chat.whatsapp.com/GRKiN86j1khEYlFZeSCyP4' }},
 'caption': text,
 'footer': wm,
 'buttons':[
